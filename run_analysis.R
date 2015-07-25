@@ -2,9 +2,6 @@
 
 # This R script does the following:
 
-# Set working Directory
-setwd("C:/Users/Catarina/Desktop/Specialization in Data Science/03. Getting and cleaning data/05. Project/UCI HAR Dataset")
-
 # 1. Merges the training and the test sets to create one data set.
 
 tmp1 <- read.table("train/X_train.txt")
